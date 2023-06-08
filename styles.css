@@ -1,0 +1,96 @@
+body {
+  background-color: #023047;
+  text-align: left;
+  color: #219ebc;
+}
+p,
+pre {
+  font-weight: 200;
+  font-size: 140%;
+  color: #219ebc;
+}
+
+div {
+  font-family: inherit;
+}
+
+.btn {
+  float: right;
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-family: inherit;
+  font-size: 18px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {
+  color: #8ecae6;
+}
+
+.about {
+  color: #fb8500;
+}
+.experience {
+  color: #fb8500;
+}
+.work {
+  color: #fb8500;
+}
+.resume {
+  color: #023047;
+  background-color: #fb8500;
+  padding: 14px 28px;
+  font-family: inherit;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.main {
+  border: 1px solid #023047;
+  height: 600px;
+  width: 600px;
+  margin-left: 50px;
+  position: relative;
+}
+
+.column1 {
+  color: #4287f5;
+  text-align: left;
+  margin-top: 150px;
+  font-size: 130%;
+}
+
+.column2 {
+  text-align: left;
+  margin-top: 10px;
+}
+
+#bottom {
+  position: absolute;
+  bottom: -3;
+  left: 0;
+  font-size: 130%;
+}
+
+.buttons {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+/* #amenities-page {
+  color: black;
+} */
+/* #properties-list {
+  font-size: 90%;
+} */
+/* #school-image,
+#restaurant-image,
+#mall-image {
+  width: 30%;
+  height: 30%;
+  border-radius: 3%;
+} */
